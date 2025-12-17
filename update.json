@@ -1,6 +1,7 @@
-{"version":"0.2.0","notes":"新增软件更新功能，修复任务框层叠问题","pub_date":"2024-12-17T12:00:00Z","platforms":{"windows-x86
-  _64":{"signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbkNrUVlDSyszYnhDOHcwNEg4aVQ0STZ3cX
-  AyTUlrRzBDT0JWcFFtQkgrOTkyUEVTak1WK1BDNFk0Z251SzFORlJrMVJZL3NxZkh0SzJ3eVAzaEtUaWJVYTJDNml0SXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWV
-  zdGFtcDoxNzY1OTgwMDkwCWZpbGU66LS05Ly0XzAuMi4wX3g2NC1zZXR1cC5leGUKL2d1M0d3d3BpdjU5NHNxQlIxejlPQVY1NGlXRG5pSFR1eFQxSDNkZ2xtdGNZ
-  eUNMeStvSDZ3ME5wb3lzdlZGeTVTY3cvU3pkU2hpb2kvZktpcUVaQmc9PQo=","url":"https://github.com/KZM9/tieban-update/releases/download/
-  v0.2.0/_0.2.0_x64-setup.exe"}}}
+{"version":"0.2.0","notes":"Bug fixes and
+  improvements","pub_date":"2024-12-17T12:00:00Z","platforms":{"windows-x86_64":{"signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hd
+  HVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbkNrUVlDSyszYnhDOHcwNEg4aVQ0STZ3cXAyTUlrRzBDT0JWcFFtQkgrOTkyUEVTak1WK1BDNFk0Z251SzFORl
+  JrMVJZL3NxZkh0SzJ3eVAzaEtUaWJVYTJDNml0SXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1OTgwMDkwCWZpbGU66LS05Ly0XzAuMi4wX3g2NC1
+  zZXR1cC5leGUKL2d1M0d3d3BpdjU5NHNxQlIxejlPQVY1NGlXRG5pSFR1eFQxSDNkZ2xtdGNZeUNMeStvSDZ3ME5wb3lzdlZGeTVTY3cvU3pkU2hpb2kvZktpcUVa
+  Qmc9PQo=","url":"https://github.com/KZM9/tieban-update/releases/download/v0.2.0/_0.2.0_x64-setup.exe"}}}
+
